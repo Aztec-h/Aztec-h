@@ -1,14 +1,17 @@
 <div align="center">
 
 ```
-█████╗ ██████╗ ███████╗ █████╗ ██╗      █████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██║     ██╔══██╗██╔══██╗████╗  ██║
-███████║██████╔╝███████╗███████║██║     ███████║███████║██╔██╗ ██║
-██╔══██║██╔══██╗╚════██║██╔══██║██║     ██╔══██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║███████║██║  ██║███████╗██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+█████╗ ███████╗████████╗███████╗ ██████╗      ██╗  ██╗
+██╔══██╗╚══███╔╝╚══██╔══╝██╔════╝██╔════╝      ██║  ██║
+███████║  ███╔╝    ██║   █████╗  ██║     █████╗███████║
+██╔══██║ ███╔╝     ██║   ██╔══╝  ██║     ╚════╝██╔══██║
+██║  ██║███████╗   ██║   ███████╗╚██████╗      ██║  ██║
+╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝      ╚═╝  ╚═╝
 ```
 
+<img src="./hsr amphoe crazy.gif" width="600" alt="Arsalaan's animation" />
+
+### This is Arsalaan. Hey There 👋
 ### developer · gamer · builder
 
 *passionate about systems, games, and the tech that powers them*
@@ -132,9 +135,3 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsalaankhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>

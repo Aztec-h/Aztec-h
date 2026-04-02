@@ -27,6 +27,19 @@
 
 ---
 
+## 🎌 AniList
+![](./metrics.anilist.svg)
+
+---
+
+## 📅 Contribution calendar
+![](./metrics.isocalendar.svg)
+
+## 🏆 Achievements  
+![](./metrics.achievements.svg)
+
+---
+
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud & Infrastructure

@@ -9,7 +9,14 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝      ╚═╝  ╚═╝
 ```
 
-<img src="hsr amphoe crazy.gif" width="600" alt="Arsalaan's animation" />
+<div align="center">
+  
+  <img src="https://hsr_amphoe_crazy.webp" 
+       width="600" 
+       style="max-width: 100%; height: auto;"
+       alt="Optimized Animation" />
+
+</div>
 
 ### This is Arsalaan. Hey There 👋
 ### developer · gamer · builder

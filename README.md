@@ -8,7 +8,6 @@
 ██║  ██║███████╗   ██║   ███████╗╚██████╗      ██║  ██║
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝      ╚═╝  ╚═╝
 ```
-</div>
 <div align="center">
   
   <img src="./hsr_amphoe_crazy.webp" width="600">
@@ -22,23 +21,14 @@
 
 [![Email](https://img.shields.io/badge/arsalaankhan.work%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arsalaankhan.work@gmail.com)
 
-</div>
-
 ---
-
-## 👾 About
-
-- 🤝 Open to collaborate on **game engines, networking, and DevOps projects**
-- 🎮 Talk to me about **games, engines, and all things tech**
-- 📬 Reach me at **arsalaankhan.work@gmail.com**
-
----
-
 
 ## 📅 Contribution calendar
 ![](./metrics.isocalendar.svg)
 
 ---
+
+</div>
 
 ## 🛠 Tech Stack
 

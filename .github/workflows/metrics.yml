@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]   # runs daily
-  workflow_dispatch:                  # lets you trigger it manually
+  schedule: [{cron: "0 0 * * *"}]  
+  workflow_dispatch:                  
   push: {branches: ["main", "master"]}
 
 jobs:
@@ -19,28 +19,17 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year   # or "half-year"
-
-      # --- Achievements ---
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact     # or "detailed"
-          plugin_achievements_threshold: C         # min rank to show
+          plugin_isocalendar_duration: full-year  
 
       # --- AniList ---
       - name: AniList
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.anilist.svg
-          token: NOT_NEEDED                        # AniList needs no GitHub token
+          token: NOT_NEEDED                        
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME   # set this if different from GitHub
+          plugin_anilist_user: krio131
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 2

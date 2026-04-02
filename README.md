@@ -35,9 +35,6 @@
 ## 📅 Contribution calendar
 ![](./metrics.isocalendar.svg)
 
-## 🏆 Achievements  
-![](./metrics.achievements.svg)
-
 ---
 
 ## 🛠 Tech Stack

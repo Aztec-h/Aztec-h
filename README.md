@@ -34,10 +34,6 @@
 
 ---
 
-## 🎌 AniList
-![](./metrics.anilist.svg)
-
----
 
 ## 📅 Contribution calendar
 ![](./metrics.isocalendar.svg)
